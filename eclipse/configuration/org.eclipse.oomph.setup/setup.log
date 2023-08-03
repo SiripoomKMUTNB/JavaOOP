@@ -1,0 +1,40 @@
+[2023-08-03 12:25:18] Executing bootstrap tasks
+[2023-08-03 12:25:18] OpenJDK Runtime Environment 17.0.7+7
+[2023-08-03 12:25:18] Product org.eclipse.products.epp.package.java.2023-06
+[2023-08-03 12:25:18] Bundle org.eclipse.oomph.setup 1.26.0.v20230416-0656, build=5945, branch=c5558820f367665758d4d719b7553a02ff4954e0
+[2023-08-03 12:25:18] Bundle org.eclipse.oomph.setup.core 1.27.0.v20230402-0730, build=5945, branch=c5558820f367665758d4d719b7553a02ff4954e0
+[2023-08-03 12:25:18] Bundle org.eclipse.oomph.setup.p2 1.19.0.v20230416-1150, build=5945, branch=c5558820f367665758d4d719b7553a02ff4954e0
+[2023-08-03 12:25:18] Performing P2 Director (Eclipse IDE for Java Developers (2023-06))
+[2023-08-03 12:25:18] Offline = false
+[2023-08-03 12:25:18] Mirrors = true
+[2023-08-03 12:25:18] Resolving 26 requirements from 3 repositories to C:\Users\s6602041510084\Java\eclipse
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:epp.package.java [4.28.0,5.0.0) (filter=(|(&(osgi.arch=aarch64)(osgi.os=linux)(osgi.ws=gtk))(&(osgi.arch=aarch64)(osgi.os=macosx)(osgi.ws=cocoa))(&(osgi.arch=x86_64)(osgi.os=linux)(osgi.ws=gtk))(&(osgi.arch=x86_64)(osgi.os=macosx)(osgi.ws=cocoa))(&(osgi.arch=x86_64)(osgi.os=win32)(osgi.ws=win32))))
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.platform.feature.group [4.28.0,5.0.0)
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.rcp.feature.group [4.28.0,5.0.0)
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.buildship.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.eclemma.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.egit.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.epp.mpc.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.bcoview.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jdt.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.jgit.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.lemminx.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.m2e.logback.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.commons.activity.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.egit.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.git.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.github.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.hudson.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.ide_feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.java_feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.reviews.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.mylyn.wikitext_feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.tips.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.tm.terminal.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.wildwebdeveloper.xml.feature.feature.group
+[2023-08-03 12:25:18] Requirement org.eclipse.equinox.p2.iu:org.eclipse.oomph.setup.feature.group
+[2023-08-03 12:25:18] Repository https://download.eclipse.org/technology/epp/packages/2023-06/202306081200
+[2023-08-03 12:25:18] Repository https://download.eclipse.org/releases/2023-06/202306141000
+[2023-08-03 12:25:18] Repository https://download.eclipse.org/oomph/updates/milestone/latest
+[2023-08-03 12:25:24] 
